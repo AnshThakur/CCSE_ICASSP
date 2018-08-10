@@ -29,6 +29,8 @@ batch_classification_random_forest.py: classifies all the CCSE examples stored i
 
 
 DEPENDENCIES: SPAMS toolbox : http://spams-devel.gforge.inria.fr/
+              VoiceBOX: http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html 
+              Tested on python 2.7 and matlab 2015b.
 
 DATA files could not be included due to licensing issues. However, class-specific dictionaries, concantenated dictionaries and training CCSE
 are provided here.
